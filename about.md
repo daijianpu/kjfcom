@@ -1,5 +1,5 @@
 ---
-title: About this website
+title: 关于
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+氪金番www.kejinfan.com
