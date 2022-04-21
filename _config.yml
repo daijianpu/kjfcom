@@ -21,10 +21,10 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://kejinfan.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: '氪金番'
+description: '肝番剧，买玩具：假面骑士奥特曼龙珠鬼灭之刃高达圣衣神话万代正版模型'
 permalink: pretty
 logo: "https://img.alicdn.com/imgextra/i3/2710706468/O1CN01MSs8GS1xeOV16mYim_!!2710706468.jpg"
 
@@ -38,12 +38,14 @@ navigation_header:
   url: /
 - title: 关于
   url: /about/
-- title: 资讯
+- title: 联系
   url: /contact/
+- title: 资讯
+  url: /info/
 
 # Footer nav
 navigation_footer:
-- title: 返回顶部
+- title: 返回↑顶部
   url: "#top"
 
 # Collections
