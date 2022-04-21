@@ -2,4 +2,4 @@
 title: 资讯
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+我们大量收购BANDAI万代正版模玩。
